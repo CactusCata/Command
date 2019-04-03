@@ -1,0 +1,11 @@
+name: Command
+author: Cactuscata
+version: 1.0.0
+main: fr.cactuscata.command.Command
+commands:
+  one:
+    description: Salut
+    permission: slt
+  two:
+    description: salut2
+    permission: slt2
